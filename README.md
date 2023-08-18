@@ -1,7 +1,7 @@
 ## TIC TAC TOE 
 
 #### Starting Page (Laptop)
-![FORM](./README/form.PNG)
+![FORM](README/form.PNG)
 #### Starting Page (Mobile)
 ![FORM ON MOBILE](./README/form_m.PNG)
 
